@@ -29,7 +29,7 @@ reference:
   - title: "Rotate in  RGB"
     contents:
       - clr_rotate
-  - title: "Tranparency"
+  - title: "Transparency"
     contents:
       - clr_alpha
   - title: "Modify HCL"
